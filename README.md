@@ -10,6 +10,9 @@ A Python script that transform a csv file to Apache Parquet format
 ### Requirements:
   - Python >= 3
   - pandas: https://pandas.pydata.org/
+ ```sh
+  pip3 install -r requirements.txt
+ ```
 
 ### How to test using spark-shell:
 ```sh
